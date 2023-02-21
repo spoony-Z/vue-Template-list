@@ -348,36 +348,6 @@ swag init
 
 > bilibili：https://www.bilibili.com/video/BV1kv4y1g7nT
 
-## 7. 联系方式
-
-### 7.1 技术群
-
-### QQ交流群：622360840
-| QQ 群 |
-|  :---:  |
-| <img src="http://qmplusimg.henrongyi.top/qq.jpg" width="180"/> |
-
-### 微信交流群
-| 微信 |
-|  :---:  | 
-| <img width="150" src="http://qmplusimg.henrongyi.top/qrjjz.png"> 
-
-添加微信，备注"加入gin-vue-admin交流群"
-
-### [关于我们](https://www.gin-vue-admin.com/about/join.html)
-
-## 8. 贡献者
-
-感谢您对gin-vue-admin的贡献!
-
-<a href="https://github.com/flipped-aurora/gin-vue-admin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=flipped-aurora/gin-vue-admin" />
-</a>
-
-## 9. 捐赠
-
-如果你觉得这个项目对你有帮助，你可以请作者喝饮料 :tropical_drink: [点我](https://www.gin-vue-admin.com/coffee/index.html)
-
-## 10. 商用注意事项
+## 商用注意事项
 
 如果您将此项目用于商业用途，请遵守Apache2.0协议并保留作者技术支持声明。
